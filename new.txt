@@ -3,10 +3,4 @@ Git is a really free software
 Git hub is a enjoyable thing
 Git tracks changes of files
 Oh it makes me have a headache
-<<<<<<< HEAD
-I have created a new branch
-you and i 
-=======
-I have created a new branchc
-you and i 
->>>>>>> feature
+
